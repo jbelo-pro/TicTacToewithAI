@@ -1,0 +1,15 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    def my_function():
+        return
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7098
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7098">JetBrains
+    Academy</a></html>
+  time: Tue, 21 Jul 2020 16:12:15 UTC
+record: -1
